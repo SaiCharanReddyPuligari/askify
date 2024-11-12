@@ -18,7 +18,6 @@ import { storage } from "@/models/client/config";
 import { UserPrefs } from "@/store/Auth";
 import convertDateToRelativeTime from "@/utils/relativeTime";
 import slugify from "@/utils/slugify";
-import { IconEdit } from "@tabler/icons-react";
 import Link from "next/link";
 import { Query } from "node-appwrite";
 import React from "react";
